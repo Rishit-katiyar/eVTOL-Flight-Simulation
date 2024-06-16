@@ -9,6 +9,8 @@ Welcome to the eVTOL Flight Simulation repository! This project provides a basic
 - Simple and easy-to-understand Python code
 - Customizable parameters for different flight scenarios
 
+![Figure_1q2w3e4r5t](https://github.com/Rishit-katiyar/eVTOL-Flight-Simulation/assets/167756997/aff5052e-71cd-41fa-b586-1dcd0f9126f3)
+
 ## 📚 Table of Contents
 
 - [Features](#-features)
