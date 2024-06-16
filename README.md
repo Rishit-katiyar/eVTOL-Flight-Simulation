@@ -2,16 +2,16 @@
 
 Welcome to the eVTOL Flight Simulation repository! This project provides a basic Python simulation of an Electric Vertical Take-Off and Landing (eVTOL) aircraft, modeling vertical take-off, cruising, and landing phases. The simulation includes visualizations of altitude and velocity over time.
 
+<p align="center">
+  <img src="https://github.com/Rishit-katiyar/eVTOL-Flight-Simulation/assets/167756997/aff5052e-71cd-41fa-b586-1dcd0f9126f3" width="800" alt="eVTOL Simulation">
+</p> 
+
 ## 🌟 Features
 
 - Simulates vertical take-off, cruising, and landing phases
 - Visualizes altitude and velocity profiles using Matplotlib
 - Simple and easy-to-understand Python code
 - Customizable parameters for different flight scenarios
-
-<p align="center">
-  <img src="https://github.com/Rishit-katiyar/eVTOL-Flight-Simulation/assets/167756997/aff5052e-71cd-41fa-b586-1dcd0f9126f3" width="800" alt="eVTOL Simulation">
-</p>
 
 ## 📚 Table of Contents
 
