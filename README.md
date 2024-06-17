@@ -34,7 +34,6 @@ Ensure you have the following software installed:
 - [Git](https://git-scm.com/)
 
 
-
 ### Clone the Repository
 
 ```bash
