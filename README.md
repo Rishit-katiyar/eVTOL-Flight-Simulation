@@ -33,7 +33,6 @@ Ensure you have the following software installed:
 - [Python 3.7+](https://www.python.org/downloads/)
 - [Git](https://git-scm.com/)
 
-
 ### Clone the Repository
 
 ```bash
