@@ -4,7 +4,6 @@ Welcome to the eVTOL Flight Simulation repository! This project provides a basic
 
 ## 🌟 Features
 
-
 - Simulates vertical take-off, cruising, and landing phases
 - Visualizes altitude and velocity profiles using Matplotlib
 - Simple and easy-to-understand Python code
