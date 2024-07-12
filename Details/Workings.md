@@ -1,4 +1,5 @@
 
+
 # Explanation of the Workings and Concept
 
 The eVTOL (Electric Vertical Take-Off and Landing) flight simulation project is designed to model the behavior of an eVTOL aircraft during different phases of flight: take-off, cruising, and landing. This simulation includes a detailed representation of the aircraft's physics, including thrust, drag, and gravitational forces, to provide an accurate depiction of its flight characteristics. The primary objective is to visualize altitude and velocity profiles over time, helping to understand the dynamics involved in eVTOL operations.
