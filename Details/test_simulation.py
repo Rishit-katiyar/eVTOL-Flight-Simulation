@@ -1,13 +1,5 @@
 
-
-
-
-s
-
-s
-
-simport numpy as np
-
+import numpy as np
 import matplotlib.pyplot as plt
 
 # Function to simulate eVTOL flight
