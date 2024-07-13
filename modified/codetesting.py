@@ -1,9 +1,4 @@
 
-s
-
-
-
-s
 
 
 import numpy as np
